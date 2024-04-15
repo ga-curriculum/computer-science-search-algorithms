@@ -23,25 +23,16 @@ By the end of this lesson, you'll be able to:
 
 Estimated time to complete core lab exercise: **90 minutes**
 
-
-## Starter code
-
-tktk If there is not a starter code repo that students will fork and clone to start this lab, then this section and all of its content should be removed.
-
-🟢 [Starter code](#tktk-repository-for-starter-code)
-
 ## Content
 
-- [Setup](./setup/README.md)
+- [Search Algorithms](./search-algorithms/README.md)
 - [Exercise](./exercise/README.md)
 
-## Level Up
+## Additional Resources
 
-🚀 [Level Up](./level-up/README.md) tktk - remove section if no level ups exist.
+  - Check out [this article](https://medium.com/techie-delight/binary-search-practice-problems-4c856cd9f26c) that outlines common interview questions related to binary search.
+  -  Algorithmic folk dancers, this time with [search](https://www.youtube.com/watch?v=iP897Z5Nerk)!
 
-## Solution code
-
-🏁 [tktk Solution code](#tktk-external-repo-link-url)
 
 ## Internal resources
 
