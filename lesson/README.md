@@ -136,7 +136,7 @@ If you look at the process and diagrams from this example, you can see that bina
 
 (And yes, you could use a while loop here, too, but you know we love the slickness and elegance of recursion at times like these!)
 
-```
+```plaintext
 Given an array, a value, and specified start and end points,
 
     Find the middle element in the specified subsection. (If this subsection of the array has an even number of elements, take the one just left of center.)
