@@ -39,7 +39,6 @@ There are two components to this module:
 ## Additional Resources
 
 - Check out [this article](https://medium.com/@codingfreak/binary-search-practice-problems-4c856cd9f26c) that outlines common interview questions related to binary search: An article on binary search practice problems.
-- [More thoughts](http://blog.gainlo.co/index.php/2017/01/12/rotated-array-binary-search/) on how binary search appears in job interviews: A blog post discussing binary search in job interviews.
 - Algorithmic folk dancers, this time with [search](https://www.youtube.com/watch?v=iP897Z5Nerk): A fun video demonstrating binary search through dance.
 
 ## Internal resources
