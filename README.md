@@ -23,7 +23,7 @@ By the end of this module, learners will be able to:
 There are two components to this module:
 
 1. Lesson: [Search Algorithms](./lesson/README.md)
-2. Exercise: [Implementing Binary Search](https://git.generalassemb.ly/modular-curriculum-all-courses/search-algorithms-starter-code)
+2. Exercise: [Implementing Binary Search](https://github.com/ga-curriculum/search-algorithms-starter-code)
 
 ## Solution Code 
 
